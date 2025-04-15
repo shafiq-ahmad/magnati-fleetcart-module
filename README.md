@@ -29,7 +29,7 @@ For detailed information about this module, please refer to the following docume
 
 ## Installation
 
-Please follow the instructions in the [Installation Guide](./documentation/installation_guide.md) to install and configure the module.
+Please follow the instructions in the [Installation Guide](/docs/installation_guide.md) to install and configure the module.
 
 ## Testing
 
